@@ -19,7 +19,7 @@ Foco:       Python, PostgreSQL, automação
 
 ## ESTATÍSTICAS
 <p align="center">
-  <img src="https://ghchart.rshah.org/1F3A5F/mszorzetti-art" />
+  <img src="https://streak-stats.demolab.com/?user=mszorzetti-art&locale=pt_BR&hide_border=true&background=0D1B2A&ring=5B7DB1&fire=5B7DB1&currStreakNum=C5CDD8&sideNums=C5CDD8&currStreakLabel=8FA3BF&sideLabels=8FA3BF&dates=8FA3BF" />
 </p>
 
 ## STATUS
