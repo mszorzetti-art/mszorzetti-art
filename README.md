@@ -19,7 +19,7 @@ Foco:       Python, PostgreSQL, automação
 
 ## ESTATÍSTICAS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mszorzetti-art&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1B2A&title_color=8FA3BF&icon_color=5B7DB1&text_color=C5CDD8" />
+  <img src="https://ghchart.rshah.org/1F3A5F/mszorzetti-art" />
 </p>
 
 ## STATUS
