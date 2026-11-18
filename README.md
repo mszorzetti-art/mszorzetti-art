@@ -26,7 +26,8 @@ Atualmente, concentro meus esforços no desenvolvimento de projetos próprios e 
 Desenvolvimento e programação
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,js,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,js,php&theme=dark" />
+</p>
 </p>Banco de dados e desenvolvimento web
 
 <p>
